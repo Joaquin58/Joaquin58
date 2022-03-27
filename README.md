@@ -1,4 +1,4 @@
-### Hi there 👋 i´m Joaquin
+### Hi there 👋 i´m Joaquín
 
 <!--
 **Joaquin58/Joaquin58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
