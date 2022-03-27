@@ -1,4 +1,4 @@
-### Hi there 👋 i´m Joaquín
+### Hi there 👋 i´m Joaquín 💻 🚀
 ```js
 const Joaquin ={
   pronouns: "he" | "him" ,
