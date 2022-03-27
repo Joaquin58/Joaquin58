@@ -1,5 +1,11 @@
 ### Hi there 👋 i´m Joaquín
-
+```js
+const Joaquin ={
+  pronouns: "he" | "him" ,
+  code: [Javascript, Typescript, HTHL, CSS],
+  tools: [React, Node. Storybonk, Styled-Conponents, Jest, Dockerl],
+  }
+  ```
 <!--
 **Joaquin58/Joaquin58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
