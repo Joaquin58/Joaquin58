@@ -3,7 +3,7 @@
 const Joaquin ={
   pronouns: "he" | "him" ,
   code: [Javascript, Typescript, HTHL, CSS],
-  tools: [React, Node. Storybonk, Styled-Conponents, Jest, Dockerl],
+  tools: [React, Redux, Node.JS, Styled-Conponents, Jest, Boostrap, GIMP, Inkscape],
   }
   ```
 <!--
