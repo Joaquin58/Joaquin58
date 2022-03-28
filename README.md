@@ -1,9 +1,11 @@
-### Hi there 👋 i´m Joaquín 💻 🚀
+### Hi there 👋 i'm Joaquín 💻 🚀
 
-<img src="https://user-images.githubusercontent.com/91435597/160306234-9f3dd045-319f-4914-ad61-c208746e905e.gif" alt="Coding" width="500vw" height="200vh"/>
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/91435597/160306234-9f3dd045-319f-4914-ad61-c208746e905e.gif" alt="Coding" width="100%" height="300vh"/>
+</p>
 
 ```js
-const Joaquin = {
+const Joaquín = {
   pronouns: "he" | "him" ,
   code: [Javascript, Typescript, HTHL, CSS],
   tools: [React, Redux, Node.JS, Styled-Conponents, Jest, Boostrap, GIMP, Inkscape],
