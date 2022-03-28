@@ -1,4 +1,4 @@
-### Hi there 👋 i'm Joaquín 💻 🚀
+### Hi there 👋 i'm Joaquín Ramírez 💻 🚀
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/91435597/160306234-9f3dd045-319f-4914-ad61-c208746e905e.gif" alt="Coding" width="100%" height="300vh"/>
