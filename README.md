@@ -29,9 +29,9 @@ Videogames - app
   </div>
 
   ### You can find me :earth_americas:
-  - [Twitter](https://twitter.com/JoaquinR588)
-  - [LinkIn](https://www.linkedin.com/in/joaquin58/)
-  - <a href="mailto:emersonpess011108@gmail.com?">Email</a>
+  - :bird: [Twitter](https://twitter.com/JoaquinR588)
+  - 🔎 [LinkIn](https://www.linkedin.com/in/joaquin58/)
+  - 📥 <a href="mailto:emersonpess011108@gmail.com?">Email</a>
   
 <!--
 **Joaquin58/Joaquin58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
