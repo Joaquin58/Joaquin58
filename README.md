@@ -8,7 +8,7 @@
 const Joaquín = {
   pronouns: "he" | "him" ,
   code: [Javascript, Typescript, HTHL, CSS],
-  tools: [React, Redux, NodeJS, Styled-Conponents, Jest, Boostrap, GIMP, Inkscape, ExpressJS],
+  technologies: [React, Redux, NodeJS, Styled-Conponents, Jest, Boostrap, GIMP, Inkscape, ExpressJS],
   }
   ```
 Tengo 19 años, actualmente resido en México. Me interesa la tecnología y los videojuegos. Mi enfoque está en er desarrollador web Full Stack.
@@ -16,10 +16,15 @@ Mi principal motivación es estar siempre activo y desarrollando nuevos retos si
 Si hoy no se la respuesta investigaré a fondo trayendo el resultado.
 Me comprometo con mis actividades siempre dando lo mejor de mi.
 
+[![Joaquin58's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaquin58&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ### My proyects
 Videogames - app
 
-  <div align="center">
+📌 El objetivo es tener un catalogo de Videojuegos con nuevas funciones agregadas a la Api original
+
+⚙  Tecnologias: React, Redux, NodeJS, Express, PostgreSQL
+
+  <div align="center" padding>
     <img valign="top" src="https://user-images.githubusercontent.com/91435597/160327323-dff062a9-5279-490c-b537-7ca1316f56ce.jpg" width="300vw" /></td>
     <img valign="top" src="https://user-images.githubusercontent.com/91435597/160327611-c81f0429-264a-40b6-bc61-7b7990fb4569.jpg" width="300vw" /></td>
     <img valign="top" src="https://user-images.githubusercontent.com/91435597/160327845-fd334666-df79-41a9-9bd0-4add5ecd94b6.jpg" width="300vw" /></td>
@@ -32,7 +37,7 @@ Videogames - app
   - :bird: [Twitter](https://twitter.com/JoaquinR588)
   - 🔎 [LinkIn](https://www.linkedin.com/in/joaquin58/)
   - 📥 <a href="mailto:emersonpess011108@gmail.com?">Email</a>
-  
+
 <!--
 **Joaquin58/Joaquin58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 email image <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
