@@ -9,7 +9,7 @@ const Joaquin = {
   tools: [React, Redux, Node.JS, Styled-Conponents, Jest, Boostrap, GIMP, Inkscape],
   }
   ```
-  Desarrollador Full Stack egresado de Henry. Mi principal motivación es estar siempre activo y desarrollando nuevos retos siempre de múltiples formas. Si hoy no se la respuesta investigaré a fondo trayendo la respuesta.
+  Desarrollador Full Stack egresado de Henry. Mi principal motivación es estar siempre activo y desarrollando nuevos retos siempre de múltiples formas. Si hoy no se la respuesta investigaré a fondo trayendo el resultado.
 Me comprometo con mis actividades siempre dando lo mejor de mi.
 
   you can find me :earth_americas:
