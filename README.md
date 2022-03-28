@@ -17,8 +17,9 @@ Si hoy no se la respuesta investigaré a fondo trayendo el resultado.
 Me comprometo con mis actividades siempre dando lo mejor de mi.
 
 ### My proyects
+Videogames - app
 
-  you can find me :earth_americas:
+  ### You can find me :earth_americas:
   - [Twitter](https://twitter.com/JoaquinR588)
   - [LinkIn](https://www.linkedin.com/in/joaquin58/)
   - <a href="mailto:emersonpess011108@gmail.com?">Email</a>
