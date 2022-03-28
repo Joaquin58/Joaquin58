@@ -8,11 +8,12 @@
 const Joaquín = {
   pronouns: "he" | "him" ,
   code: [Javascript, Typescript, HTHL, CSS],
-  tools: [React, Redux, Node.JS, Styled-Conponents, Jest, Boostrap, GIMP, Inkscape],
+  tools: [React, Redux, NodeJS, Styled-Conponents, Jest, Boostrap, GIMP, Inkscape, ExpressJS],
   }
   ```
-  Desarrollador Full Stack egresado de Henry. Mi principal motivación es estar siempre activo y desarrollando nuevos retos siempre de múltiples formas. Si hoy no se la respuesta investigaré a fondo trayendo el resultado.
+Desarrollador Full Stack egresado de Henry. Mi principal motivación es estar siempre activo y desarrollando nuevos retos siempre de múltiples formas. Si hoy no se la respuesta investigaré a fondo trayendo el resultado.
 Me comprometo con mis actividades siempre dando lo mejor de mi.
+
 
   you can find me :earth_americas:
   - [Twitter](https://twitter.com/JoaquinR588)
