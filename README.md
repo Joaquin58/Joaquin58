@@ -20,12 +20,12 @@ Me comprometo con mis actividades siempre dando lo mejor de mi.
 Videogames - app
 <div>
   <div>
-    <img valign="top" src="https://user-images.githubusercontent.com/91435597/160327323-dff062a9-5279-490c-b537-7ca1316f56ce.jpg" width="500vw" /></td>
-    <img valign="top" src="https://user-images.githubusercontent.com/91435597/160327611-c81f0429-264a-40b6-bc61-7b7990fb4569.jpg" width="500vw" /></td>
-    <img valign="top" src="https://user-images.githubusercontent.com/91435597/160327845-fd334666-df79-41a9-9bd0-4add5ecd94b6.jpg" width="500vw" /></td>
-    <img valign="top" src="https://user-images.githubusercontent.com/91435597/160328831-468841a8-c9ef-4738-a977-d8c33de78df0.jpg" width="500vw" /></td>
-    <img valign="top" src="https://user-images.githubusercontent.com/91435597/160328872-ee6a9671-8750-4867-9d62-17dfd9744c36.jpg" width="500vw" /></td>
-    <img valign="top" src="https://user-images.githubusercontent.com/91435597/160328932-09fa6c8a-7a9c-4d32-8803-a14eef0b5323.jpg" width="500vw" /></td>
+    <img valign="top" src="https://user-images.githubusercontent.com/91435597/160327323-dff062a9-5279-490c-b537-7ca1316f56ce.jpg" width="300vw" /></td>
+    <img valign="top" src="https://user-images.githubusercontent.com/91435597/160327611-c81f0429-264a-40b6-bc61-7b7990fb4569.jpg" width="300vw" /></td>
+    <img valign="top" src="https://user-images.githubusercontent.com/91435597/160327845-fd334666-df79-41a9-9bd0-4add5ecd94b6.jpg" width="300vw" /></td>
+    <img valign="top" src="https://user-images.githubusercontent.com/91435597/160328831-468841a8-c9ef-4738-a977-d8c33de78df0.jpg" width="300vw" /></td>
+    <img valign="top" src="https://user-images.githubusercontent.com/91435597/160328872-ee6a9671-8750-4867-9d62-17dfd9744c36.jpg" width="300vw" /></td>
+    <img valign="top" src="https://user-images.githubusercontent.com/91435597/160328932-09fa6c8a-7a9c-4d32-8803-a14eef0b5323.jpg" width="300vw" /></td>
   </div>
 </div>
 
