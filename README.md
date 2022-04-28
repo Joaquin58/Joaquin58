@@ -11,7 +11,7 @@ const Joaquín = {
   technologies: [React, Redux, NodeJS, Styled-Conponents, Jest, Boostrap, GIMP, Inkscape, ExpressJS],
   }
   ```
-Tengo 19 años, actualmente resido en México. Me interesa la tecnología y los videojuegos. Mi enfoque está en er desarrollador web Full Stack.
+Me interesa la tecnología y los videojuegos. Mi enfoque está en er desarrollador web Full Stack.
 Mi principal motivación es estar siempre activo y desarrollando nuevos retos siempre de múltiples formas.
 Si hoy no se la respuesta investigaré a fondo trayendo el resultado.
 Me comprometo con mis actividades siempre dando lo mejor de mi.
