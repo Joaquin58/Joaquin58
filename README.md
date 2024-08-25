@@ -7,7 +7,7 @@
 ```js
 const Joaquín = {
   pronouns: "he" | "him" ,
-  code: [Javascript, Typescript, HTHL, CSS],
+  code: [Javascript, Typescript, HTHL, CSS, Java JDK],
   technologies: [React, Redux, NodeJS, Styled-Conponents, Jest, Boostrap, GIMP, Inkscape, ExpressJS],
   }
   ```
